@@ -3,7 +3,6 @@ FastAPI Grammar and Spelling Checking Service - Legal Domain Enhanced with WebSo
 A high-performance grammar and spelling checking API using SymSpell with legal dictionary support,
 LanguageTool for grammar checking, and WebSocket for real-time assistance.
 """
-
 import logging
 from typing import List, Dict, Any, Optional, Tuple
 from contextlib import asynccontextmanager
